@@ -35,7 +35,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-
+Purpose
+This project is part of my web development practice and portfolio.
 
 ## Live Site
 
