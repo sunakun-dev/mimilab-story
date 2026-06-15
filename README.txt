@@ -35,3 +35,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+## Live Site
+
+https://sunakun-dev.github.io/mimilab-story/
